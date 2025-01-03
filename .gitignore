@@ -1,0 +1,11 @@
+# Node.js (Frontend and Backend)
+node_modules/
+package-lock.json # If you're using npm
+
+# General
+.DS_Store      # macOS folder metadata
+*.log          # Log files
+*.swp          # Swap files (e.g., from Vim)
+.idea/         # IntelliJ IDEA project files
+
+*.env          # Environment files (important for security!)
